@@ -1,0 +1,41 @@
+Got it 👍 — you want to **make fewer pages** for your **tournament website**, right?
+
+Let’s clarify so I can give the best layout:
+Do you want:
+
+1. A **simple site** (like 3–5 pages total)?
+2. Or a **single-page site** (everything — register, view matches, leaderboard, payment — on one scrolling page)?
+
+---
+
+If we go for **few pages (recommended 4 total)**, here’s a clean setup:
+
+### 🔹 Page 1 – Home / Dashboard
+
+* Tournament name, banner
+* Join / Create match button
+* View live or upcoming matches
+
+### 🔹 Page 2 – Matches
+
+* Room ID, password (for custom matches)
+* Player list + status (Joined / Pending / Prize given)
+
+### 🔹 Page 3 – Payments
+
+* Choose entry amount ($1, $5, $10…)
+* Pay via crypto (NowPayments / CoinGate)
+* Auto-confirm participant
+
+### 🔹 Page 4 – Results & Leaderboard
+
+* Winners list
+* Prizes distributed (✅ / ❌)
+* Match stats
+
+---
+
+Would you like me to:
+
+* 🧱 Make a **wireframe / structure plan** (show how pages connect)?
+* 💻 Or generate the **actual HTML + JS code** for this reduced version?
